@@ -58,7 +58,7 @@ the Python language, its libraries, and some common use cases in research.
 **Block 1:**
 
 - [PythonIntro.py](https://github.com/vgreg/python-finance-unimelb2018/blob/master/code/PythonIntro.py): Introduction to the Python language.
-- [Kickstarter exploration](https://github.com/vgreg/python-finance-unimelb2018/blob/master/notebooks/kickstarter/KickstarterExploration.ipynb): Introduction to datat exploration using a Kickstarter dataset.
+- [Kickstarter exploration](https://github.com/vgreg/python-finance-unimelb2018/blob/master/notebooks/kickstarter/KickstarterExploration.ipynb): Introduction to data exploration using a Kickstarter dataset.
 
 **Block 2:**
 
