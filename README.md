@@ -45,7 +45,7 @@ which is available for Windows, Mac OS and  Linux. We are using the Python
 
 ### Slides
 
-- [Python for Financial Research (PDF)](https://github.com/vgreg/python-finance-unimelb2018/blob/master/slides/PythonBootcampMarch2018.pdf)
+- [Python for Financial Research (PDF)](https://github.com/vgreg/python-finance-unimelb2018/blob/master/slides/PythonWorkshopMarch2018.pdf)
 
 
 ### Code
@@ -58,7 +58,7 @@ the Python language, its libraries, and some common use cases in research.
 **Block 1:**
 
 
-- [Kickstarter exploration](https://github.com/vgreg/python-finance-unimelb0218/blob/master/notebooks/kickstarter/KickstarterExploration.ipynb): Introduction to datat exploration using a Kickstarter dataset.
+- [Kickstarter exploration](https://github.com/vgreg/python-finance-unimelb2018/blob/master/notebooks/kickstarter/KickstarterExploration.ipynb): Introduction to datat exploration using a Kickstarter dataset.
 
 **Block 2:**
 
