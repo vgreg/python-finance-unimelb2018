@@ -13,13 +13,15 @@ The workshop is divided into four blocks of three hours each:
 We will discuss what Python is and you will learn the basic structure of the
 language. You will also learn your way around the programming environment,
 including the two main editors for scientific Python, Spyder, and Jupyter.
-You will learn how to import and explore data using pandas.
+You will learn how to import and explore data using pandas by generating summary statistics and plotting graphs using matplotlib.
 
 **2.    Introduction to data analysis using pandas and matplotlib**
 
 You will learn how to import, export and transform data using pandas, the
-panel data package for Python. You will also learn how to explore the data
-by generating summary statistics and plotting graphs using matplotlib.
+panel data package for Python. You will also see how to do basic portfolio
+analysis while replicating a classic paper.
+
+Recommended reading: [Bondt, W.F. and Thaler, R., 1985. Does the stock market overreact?. The Journal of finance, 40(3), pp.793-805.](http://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.1985.tb05004.x/full)
 
 **3.    More data analysis using pandas and statsmodels**
 
