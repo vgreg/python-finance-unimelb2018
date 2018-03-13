@@ -163,7 +163,7 @@ print('Don\'t forget to escape the quotes.')
 
 #%% Input
 
-x = raw_input('Type something: ')
+x = input('Type something: ')
 
 
 #%% Input exercise
