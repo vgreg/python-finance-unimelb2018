@@ -64,6 +64,7 @@ the Python language, its libraries, and some common use cases in research.
 
 **Block 2:**
 
+- [DeBondt and Thaler 1985](https://github.com/vgreg/python-finance-unimelb2018/blob/master/notebooks/debondt_thaler_1985/DeBondtThaler.ipynb): Partial replication of a paper with portoflio formation.
 
 **Block 3:**
 
