@@ -69,10 +69,10 @@ the Python language, its libraries, and some common use cases in research.
 
 **Block 3:**
 
-- [Introduction to empirical market microstructure in Python](https://github.com/vgreg/python-finance-unimelb2018/blob/master/notebooks/micrsostructure/ASX_Microstructure.ipynb): Intro to using pandas with intraday data.
+- [Introduction to empirical market microstructure in Python](https://github.com/vgreg/python-finance-unimelb2018/blob/master/notebooks/microstructure/ASX_Microstructure.ipynb): Intro to using pandas with intraday data.
 - [Estimating standard errors in Python](https://github.com/vgreg/python-se): Using statsmodels and pandas for panel regressions.
 
 **Block 4:**
 
-- [SEC Press Releases](https://github.com/vgreg/python-finance-unimelb2018/blob/master/notebooks/micrsostructure/SEC_News_Releases.ipynb): Scrape data from website and apply textual (sentiment) analysis.
+- [SEC Press Releases](https://github.com/vgreg/python-finance-unimelb2018/blob/master/notebooks/sec_news/SEC_News_Releases.ipynb): Scrape data from website and apply textual (sentiment) analysis.
 
