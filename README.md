@@ -29,6 +29,10 @@ You will learn more advanced features of Python and pandas, including dealing
 with timestamps and estimating measures from daily and intraday data. You
 will also learn how to estimate OLS and panel regressions using statsmodels.
 
+Recommended reading: [Petersen, Mitchell A., 2009. Estimating Standard Errors in Finance Panel Data Sets: Comparing Approaches.  Review of Financial Studies. 22, pp.435-480.](https://academic.oup.com/rfs/article-abstract/22/1/435/1585940)
+
+
+
 **4.    Other topics**
 
 In this block, you will be introduced briefly to other Python packages that 
